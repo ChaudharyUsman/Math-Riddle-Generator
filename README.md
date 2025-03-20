@@ -58,3 +58,4 @@ This project is licensed under the MIT License.
 ---
 Enjoy solving and sharing math riddles! 🚀
 
+![image](https://github.com/user-attachments/assets/c0a5b5d7-8d3f-4038-ab97-6f22310730ed)
